@@ -1,1 +1,0 @@
-Run the app.mlapp to use the app. All necessary *.m files should be in the same directory.
